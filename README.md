@@ -4,8 +4,10 @@ Programa de Facturación desarrollado en Python con las librerías gráficas QT 
 
 Gestión básica de clientes y las Facturas o Presupuestos que la empresa emite.
 
-  - Python
-  - pyQT5
-  - QT Designer
+Software y Librerías usadas:
+
+  - Python 3
+  - pyQT 5
   - SQLite
-  - QSS
+
+Para la modificación de los widget se ha usado QSS (CSS para las librerías QT)
