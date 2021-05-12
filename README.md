@@ -8,3 +8,4 @@ Gestión básica de clientes y las Facturas o Presupuestos que la empresa emite.
   - pyQT5
   - QT Designer
   - SQLite
+  - QSS
