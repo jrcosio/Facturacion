@@ -1,4 +1,4 @@
-# Facturacion
+# Facturación por JR Blanco
 
 Programa de Facturación desarrollado en Python con las librerías gráficas QT 5
 
